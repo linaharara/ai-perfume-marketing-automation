@@ -33,6 +33,8 @@ Built a reusable prompt template with:
 
 ## 📊 Sample Output
 Ran the automation on 4 products (My Way, jadore , Bleu de Chanel, Sauvage) — each received complete, consistently structured marketing copy in seconds.
+![Workflow running in n8n](Screenshot%202026-09-23%20100326.png)
+![Sample output results](Screenshot%202026-23%20100154.png)
 
 ## 💡 Key Takeaways
 - Core prompt engineering principles and their direct impact on output quality
